@@ -1,0 +1,17 @@
+{
+  "author": "Jeremy Beker",
+  "description": "",
+  "includedConfigs": {
+    "build": false,
+    "publish": false,
+    "run": false
+  },
+  "includedFiles": {
+    "hidden": false,
+    "ignored": false
+  },
+  "name": "Sorbet.novaextension",
+  "rank": 0,
+  "variablePrefix": "nova",
+  "variables": []
+}

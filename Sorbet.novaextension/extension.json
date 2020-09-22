@@ -1,0 +1,16 @@
+{
+  "identifier": "Picosphere.Sorbet",
+  "name": "Sorbet",
+  "vendor": "Picosphere",
+  "description": "Lint your Ruby source files with Sorbet.",
+  "version": "0.1.0",
+  "categories": ["issues"],
+  "repository": "https://github.com/jbeker/nova-sorbet",
+  "bugs": "https://github.com/jbeker/nova-sorbet/issues",
+  "license": "MIT",
+  "main": "main.dist.js",
+  "activationEvents": ["onLanguage:ruby"],
+  "entitlements": {
+    "process": true
+  }
+}
